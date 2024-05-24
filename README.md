@@ -1,2 +1,2 @@
 # discord-inviter
-Plz rate me to star 💖
+Plz leave me a star 💖
