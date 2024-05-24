@@ -1,0 +1,7 @@
+[ Settings ]
+Invite = 'qq-shop'
+Api_Key = "daramun-23f21719-8b4d-5192-01bb-52c29c0e47c0" # NoCaptchAI (free 200 solves)
+
+[ Files ]
+Tokens_File = './tokens.txt'
+Proxies_File = './proxies.txt'
